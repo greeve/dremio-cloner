@@ -1,0 +1,3 @@
+mo-sql-parsing
+requests
+sqlparse
